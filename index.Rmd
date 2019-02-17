@@ -15,7 +15,7 @@ output:
     reveal_options:
       slideNumber: true
     css: style.css
-    self_contained: false
+    self_contained: true
 ---
 
 ```{r setup, include = FALSE}
